@@ -1,0 +1,7 @@
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\bin\Debug\09 飞行棋游戏.exe.config
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\bin\Debug\09 飞行棋游戏.exe
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\bin\Debug\09 飞行棋游戏.pdb
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\obj\Debug\09 飞行棋游戏.csproj.AssemblyReference.cache
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\obj\Debug\09 飞行棋游戏.csproj.CoreCompileInputs.cache
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\obj\Debug\09 飞行棋游戏.exe
+D:\C#语言VS学前练习\Console 学前练习第五天\第五天\09 飞行棋游戏\obj\Debug\09 飞行棋游戏.pdb
